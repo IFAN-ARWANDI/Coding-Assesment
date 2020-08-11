@@ -18,7 +18,7 @@
     <ul class="nav navbar-nav">
       <li class="active"><a href="index.php">Home</a></li>
       <li><a href="tambah.php">Tambah Data</a></li>
-      <li><a href="anka.php">Angka</a></li>
+      <li><a href="angka.php">Angka</a></li>
       <!--<li><a href="#">Page 3</a></li>-->
     </ul>
   </div>

@@ -24,14 +24,17 @@
   </div>
 </nav>
   
-<div class="container">
 <?php
-for ($i=8; $i>=1; --$i){
-    for ($j=$i; $j>=1; --$j){
-    echo $j;
+$i=1;
+while($i<=8)
+{ 
+  for($i1=1;$i1<=$i;$i1++)
+    {
+      echo $i1;
     }
-    echo "<br>";
-}
+  echo "<br>";
+  $i++;
+} 
 ?>
 
 </div>
